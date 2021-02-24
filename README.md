@@ -67,7 +67,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="harikanani" height="195px"/></p>
 <br><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark" alt="harikanani" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark" alt="harikanani" /></p> -->
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark)
 
 <h3> 📈 Github Activity Graph </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=harikanani" />
