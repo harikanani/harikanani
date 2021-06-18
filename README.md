@@ -4,7 +4,6 @@
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=harikanani&label=Profile%20views&color=0e75b6&style=flat" alt="harikanani" />
     <a href="https://github.com/harikanani/"><img src="https://img.shields.io/github/followers/harikanani?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/harikanani?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="mailto:harikanani2003@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Harikrushn :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
